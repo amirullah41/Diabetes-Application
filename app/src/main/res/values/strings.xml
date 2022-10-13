@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SupportingYourDiabetes</string>
+    <string-array name="MedicationArray">
+        <item>Insulin - (Basal - Insulin taken once or twice a day)</item>
+        <item>Insulin - (Bolus - Insulin taken with food or drink)</item>
+    </string-array>
+    <string-array name="MealTimeArray">
+        <item>---Select One---</item>
+        <item>Breakfast</item>
+        <item>Lunch</item>
+        <item>Snack</item>
+        <item>Dinner</item>
+    </string-array>
+</resources>
